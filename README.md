@@ -1,8 +1,7 @@
 # tugas-bangkit
 
-==
-#### github uji coba #####
---
+## github uji coba 
+
 *biodata siswa terdiri dari 3 angkatan yaitu sebagai berikut*
 - Angkatan 2019
 - Angkatan 2020
